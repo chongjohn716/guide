@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>前端代码规范</title>
   <subtitle>Front-End Coding Guidelines</subtitle>
-  <link href="./atom.xml" rel="self"/>
+  <link href="/guide/atom.xml" rel="self"/>
   
   <link href="http://xxx/"/>
   <updated>2017-07-17T18:41:43.089Z</updated>
